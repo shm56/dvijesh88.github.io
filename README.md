@@ -1,6 +1,7 @@
 ## Deep Learning
-
-You can use the [editor on GitHub](https://github.com/Dvijesh88/dvijesh88.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Practical/Videos  
+MIT Introduction to Deep Learning  
+  https://medium.com/tensorflow/mit-introduction-to-deep-learning-4a6f8dde1f0c
 
 
 ## Algorithm  
@@ -8,17 +9,26 @@ You can use the [editor on GitHub](https://github.com/Dvijesh88/dvijesh88.github
 
 ### CNN  
 
-### RNN  
+### RNN   
 
-https://towardsdatascience.com/recurrent-neural-networks-d4642c9bc7ce
+Recurrent Neural Networks  
+  https://towardsdatascience.com/recurrent-neural-networks-d4642c9bc7ce  
 
-### GAN  
+Understanding hidden memories of recurrent neural networks  
+  https://blog.acolyer.org/2019/02/25/understanding-hidden-memories-of-recurrent-neural-networks/amp/
 
-https://www.analyticsindiamag.com/is-the-gan-powered-website-thispersondoesnotexist-com-creepy-or-brilliant/
+### GAN   
+
+Is The GAN-Powered Website ThisPersonDoesNotExist.Com Creepy Or Brilliant?  
+  https://www.analyticsindiamag.com/is-the-gan-powered-website-thispersondoesnotexist-com-creepy-or-brilliant/
 
 ### Autoencoder  
 
 ### RBM  
+
+### LSTM  
+Reading between the layers (LSTM Network)  
+  https://towardsdatascience.com/reading-between-the-layers-lstm-network-7956ad192e58
 
 ### Others  
 
@@ -40,4 +50,11 @@ Introduction to Uber’s Ludwig
 
 ### Others  
 
-## Course
+## Course  
+ 
+CS294-158 Deep Unsupervised Learning Spring 2019  
+  https://sites.google.com/view/berkeley-cs294-158-sp19/home?fbclid=IwAR1yQGApAYtuyqq1UxFjKfgmDUE_LJ7mJkMeWaya_A9gMOVuwfuW2awDmz0 
+  
+## Artical  
+A computer vision system for deep learning-based detection of patient mobilization activities in the ICU
+  https://www.nature.com/articles/s41746-019-0087-z
