@@ -6,19 +6,22 @@ You can use the [editor on GitHub](https://github.com/Dvijesh88/dvijesh88.github
 ## Algorithm  
 
 
-CNN  
+### CNN  
 
-RNN  
+### RNN  
+
 https://towardsdatascience.com/recurrent-neural-networks-d4642c9bc7ce
 
-GAN  
+### GAN  
+
 https://www.analyticsindiamag.com/is-the-gan-powered-website-thispersondoesnotexist-com-creepy-or-brilliant/
 
-Autoencoder  
+### Autoencoder  
 
-RBM  
+### RBM  
 
-Others  
+### Others  
+
 Computer Vision for Global Challenges 2019 by Facebook Research [Prize Worth upto Rs. 28L]: Apply by April 29  
   https://www.noticebard.com/computer-vision-for-global-challenges-facebook-2019/
   
@@ -29,12 +32,12 @@ Introduction to Uber’s Ludwig
   https://towardsdatascience.com/introduction-to-ubers-ludwig-cdaa67245cfa
 ## Domains  
 
-image and video  
+### image and video  
 
-NLP(Sentences)  
+### NLP(Sentences)  
 
-Speech  
+### Speech  
 
-Others  
+### Others  
 
 ## Course
