@@ -19,13 +19,13 @@ Autoencoder
 RBM  
 
 Others  
-Computer Vision for Global Challenges 2019 by Facebook Research [Prize Worth upto Rs. 28L]: Apply by April 29
+Computer Vision for Global Challenges 2019 by Facebook Research [Prize Worth upto Rs. 28L]: Apply by April 29  
   https://www.noticebard.com/computer-vision-for-global-challenges-facebook-2019/
   
-Turn Quantum Computing Knowledge into Action
+Turn Quantum Computing Knowledge into Action  
   https://quantumcurriculum.mit.edu/?utm_medium=paid_social&utm_source=mitxpro&utm_campaign=quantum-su19&utm_content=fb-c-m-f&fbclid=IwAR1-gNpiqBy3hQfQ_EZRj_yDWTykvd7ZXNdZKfowuna1K3n5D_yq55yFqBc
   
-Introduction to Uber’s Ludwig
+Introduction to Uber’s Ludwig  
   https://towardsdatascience.com/introduction-to-ubers-ludwig-cdaa67245cfa
 ## Domains  
 
