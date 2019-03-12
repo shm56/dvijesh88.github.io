@@ -17,6 +17,7 @@ Autoencoder
 RBM  
 
 Others  
+https://www.noticebard.com/computer-vision-for-global-challenges-facebook-2019/
 
 ## Domains  
 
