@@ -21,8 +21,15 @@ Understanding hidden memories of recurrent neural networks
   https://poloclub.github.io/ganlab/?fbclid=IwAR2wID0IihgfEj_peVnZ-PjdIVfm3nR-5mR27bmhsBC8ll6jjnlM7EThIx4
 
 Is The GAN-Powered Website ThisPersonDoesNotExist.Com Creepy Or Brilliant?  
-  https://www.analyticsindiamag.com/is-the-gan-powered-website-thispersondoesnotexist-com-creepy-or-brilliant/
+  https://www.analyticsindiamag.com/is-the-gan-powered-website-thispersondoesnotexist-com-creepy-or-brilliant/   
+  
+Self-Supervised GANs  
+  https://towardsdatascience.com/self-supervised-gans-2aec1eadaccd?fbclid=IwAR3lKBy62V4N8NXEcWyH7BxQQmNNRYuS0-7uP6_XYrYW7jdNqK_NGs_nbtY
+  
+### GNN 
 
+A Gentle Introduction to Graph Neural Networks (Basics, DeepWalk, and GraphSage)  
+  https://towardsdatascience.com/a-gentle-introduction-to-graph-neural-network-basics-deepwalk-and-graphsage-db5d540d50b3?fbclid=IwAR3nzu5oCS25hRFIYN28U2ZWuQBuGjvRP-OqMRwcdA6JjNoz9iDAkn2fco0
 ### Autoencoder  
 
 ### RBM  
@@ -41,6 +48,7 @@ Turn Quantum Computing Knowledge into Action
   
 Introduction to Uber’s Ludwig  
   https://towardsdatascience.com/introduction-to-ubers-ludwig-cdaa67245cfa
+  https://eng.uber.com/introducing-ludwig/?fbclid=IwAR0HQfMBWu-ky1UlXBdk2LJ5JpsdOAneN-NzyEvZvYYxpQXFLBXYdRJHzlo
 ## Domains  
 
 ### image and video  
