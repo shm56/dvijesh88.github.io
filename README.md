@@ -4,8 +4,8 @@ You can use the [editor on GitHub](https://github.com/Dvijesh88/dvijesh88.github
 
 
 ## Algorithm
-#CNN
-#RNN
+##CNN
+##RNN
 #GAN
 #Autoencoder
 #RBM
