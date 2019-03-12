@@ -17,6 +17,7 @@ Autoencoder
 RBM  
 
 Others  
+Computer Vision for Global Challenges 2019 by Facebook Research [Prize Worth upto Rs. 28L]: Apply by April 29
 https://www.noticebard.com/computer-vision-for-global-challenges-facebook-2019/
 
 ## Domains  
