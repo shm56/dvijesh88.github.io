@@ -6,18 +6,25 @@ You can use the [editor on GitHub](https://github.com/Dvijesh88/dvijesh88.github
 ## Algorithm  
 
 
-#CNN  
+CNN  
 
-#RNN  
+RNN  
 
-#GAN  
+GAN  
 
-#Autoencoder  
+Autoencoder  
 
-#RBM
-#Others
-## Domains
-#image and video
-#NLP(Sentences)
-#Speech
-#Others
+RBM  
+
+Others  
+
+## Domains  
+
+image and video  
+
+NLP(Sentences)  
+
+Speech  
+
+Others  
+
