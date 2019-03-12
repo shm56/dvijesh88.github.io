@@ -18,6 +18,7 @@ Understanding hidden memories of recurrent neural networks
   https://blog.acolyer.org/2019/02/25/understanding-hidden-memories-of-recurrent-neural-networks/amp/
 
 ### GAN   
+  https://poloclub.github.io/ganlab/?fbclid=IwAR2wID0IihgfEj_peVnZ-PjdIVfm3nR-5mR27bmhsBC8ll6jjnlM7EThIx4
 
 Is The GAN-Powered Website ThisPersonDoesNotExist.Com Creepy Or Brilliant?  
   https://www.analyticsindiamag.com/is-the-gan-powered-website-thispersondoesnotexist-com-creepy-or-brilliant/
@@ -50,11 +51,20 @@ Introduction to Uber’s Ludwig
 
 ### Others  
 
-## Course  
+## Course/Tutorial  
  
 CS294-158 Deep Unsupervised Learning Spring 2019  
   https://sites.google.com/view/berkeley-cs294-158-sp19/home?fbclid=IwAR1yQGApAYtuyqq1UxFjKfgmDUE_LJ7mJkMeWaya_A9gMOVuwfuW2awDmz0 
   
+Science of Deep Learning: Bridging Theory and Practice -- Spring 2018  
+  https://people.csail.mit.edu/madry/6.883/?fbclid=IwAR0J5pPPwF5FgUxAuaXmSjaM2eOo54nT-VxxI_GFAaC95vRXmoYWCdDeZb4  
+  
+Restricted Boltzmann Machine Tutorial — Introduction to Deep Learning Concepts  
+  https://medium.com/edureka/restricted-boltzmann-machine-tutorial-991ae688c154?fbclid=IwAR2QctcpSzfou-H5h7_vcNelEydl0SBQ4HbkBCY6F_VwACRHc7IQx_BDrs8
+  
 ## Artical  
 A computer vision system for deep learning-based detection of patient mobilization activities in the ICU
-  https://www.nature.com/articles/s41746-019-0087-z
+  https://www.nature.com/articles/s41746-019-0087-z  
+   
+WHAT ARE MAJOR REINFORCEMENT LEARNING ACHIEVEMENTS & PAPERS FROM 2018?  
+https://www.topbots.com/most-important-ai-reinforcement-learning-research/?fbclid=IwAR1Crwj1qOrjb9D4Saq_YKwsh6A5nCQ58l8yo96-boNkOLt8Z9CX60EZs6s
