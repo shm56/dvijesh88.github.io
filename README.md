@@ -48,12 +48,23 @@ Turn Quantum Computing Knowledge into Action
   
 Introduction to Uber’s Ludwig  
   https://towardsdatascience.com/introduction-to-ubers-ludwig-cdaa67245cfa
-  https://eng.uber.com/introducing-ludwig/?fbclid=IwAR0HQfMBWu-ky1UlXBdk2LJ5JpsdOAneN-NzyEvZvYYxpQXFLBXYdRJHzlo
+  https://eng.uber.com/introducing-ludwig/?fbclid=IwAR0HQfMBWu-ky1UlXBdk2LJ5JpsdOAneN-NzyEvZvYYxpQXFLBXYdRJHzlo  
+  
+Using the latest advancements in deep learning to predict stock price movements  
+  https://towardsdatascience.com/aifortrading-2edd6fac689d?fbclid=IwAR1CK3xRp5gXwDhaf_wSodJhWJiHbBNFuYfFauTCsY9ny3_l2hP3cNCQtA8  
+  
+Microsoft’s New MT-DNN Outperforms Google BERT  
+  https://medium.com/syncedreview/microsofts-new-mt-dnn-outperforms-google-bert-b5fa15b1a03e?fbclid=IwAR0mHzqUEnxhJZ4jlkZEAV8onB_A6gZdqv5JraY1pvUUFMTk2aGwixwjaF4  
+ 
+Reflections on the State of AI: 2018  
+   https://towardsdatascience.com/reflections-on-the-state-of-ai-2018-46504e25263d?fbclid=IwAR18bxjxTaEZ2CwAOsWEK44alA4r-jEv0t36P9PCtzp1FxUv7nU1h4WhROY
 ## Domains  
 
 ### image and video  
 
 ### NLP(Sentences)  
+BERT Technology introduced in 3-minutes  
+  https://towardsdatascience.com/bert-technology-introduced-in-3-minutes-2c2f9968268c?fbclid=IwAR2FJ-xI9C_UwcQQaE5Cqlgt9_Rcc87jiWVhGhUokmZRCP--opBpsfxvKmo
 
 ### Speech  
 
