@@ -37,6 +37,7 @@ Self-Supervised GANs
 
 A Gentle Introduction to Graph Neural Networks (Basics, DeepWalk, and GraphSage)  
   https://towardsdatascience.com/a-gentle-introduction-to-graph-neural-network-basics-deepwalk-and-graphsage-db5d540d50b3?fbclid=IwAR3nzu5oCS25hRFIYN28U2ZWuQBuGjvRP-OqMRwcdA6JjNoz9iDAkn2fco0
+  
 ### Autoencoder  
 
 ### RBM  
@@ -71,11 +72,17 @@ Reflections on the State of AI: 2018
 
 ### NLP(Sentences)  
 BERT Technology introduced in 3-minutes  
-  https://towardsdatascience.com/bert-technology-introduced-in-3-minutes-2c2f9968268c?fbclid=IwAR2FJ-xI9C_UwcQQaE5Cqlgt9_Rcc87jiWVhGhUokmZRCP--opBpsfxvKmo
+https://towardsdatascience.com/bert-technology-introduced-in-3-minutes-2c2f9968268c?fbclid=IwAR2FJ-xI9C_UwcQQaE5Cqlgt9_Rcc87jiWVhGhUokmZRCP--opBpsfxvKmo
+
+Chars2vec: character-based language model for handling real world texts with spelling errors and human slang
+https://hackernoon.com/chars2vec-character-based-language-model-for-handling-real-world-texts-with-spelling-errors-and-a3e4053a147d
 
 ### Speech  
 
-### Others  
+### Others 
+
+MIT Deep Learning Basics: Introduction and Overview with TensorFlow
+https://medium.com/tensorflow/mit-deep-learning-basics-introduction-and-overview-with-tensorflow-355bcd26baf0
 
 ## Course/Tutorial  
  
@@ -87,6 +94,9 @@ Science of Deep Learning: Bridging Theory and Practice -- Spring 2018
   
 Restricted Boltzmann Machine Tutorial — Introduction to Deep Learning Concepts  
   https://medium.com/edureka/restricted-boltzmann-machine-tutorial-991ae688c154?fbclid=IwAR2QctcpSzfou-H5h7_vcNelEydl0SBQ4HbkBCY6F_VwACRHc7IQx_BDrs8
+  
+MIT Deep Learning Course 2019 (Good One)
+http://introtodeeplearning.com/#schedule
   
 ## Artical  
 A computer vision system for deep learning-based detection of patient mobilization activities in the ICU
