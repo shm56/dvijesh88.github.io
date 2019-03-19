@@ -9,6 +9,13 @@ MIT Introduction to Deep Learning
 
 ### CNN  
 
+### Capsule Net
+Capsule Neural Networks: The Next Neural Networks? Part 1: CNNs and their problems.
+https://towardsdatascience.com/capsule-neural-networks-are-here-to-finally-recognize-spatial-relationships-693b7c99b12
+
+Understanding Hinton’s Capsule Networks. Part I: Intuition.
+https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b
+
 ### RNN   
 
 Recurrent Neural Networks  
