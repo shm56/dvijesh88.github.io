@@ -98,7 +98,7 @@ Restricted Boltzmann Machine Tutorial — Introduction to Deep Learning Conc
 MIT Deep Learning Course 2019 (Good One)
 http://introtodeeplearning.com/#schedule
   
-## Artical  
+## Articles
 A computer vision system for deep learning-based detection of patient mobilization activities in the ICU
   https://www.nature.com/articles/s41746-019-0087-z  
    
