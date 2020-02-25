@@ -8,6 +8,8 @@ MIT Introduction to Deep Learning
 
 
 ### CNN  
+4 CNN Networks
+https://medium.com/ml-cheat-sheet/4-cnn-networks-every-machine-learning-engineer-should-know-e9c62408fd76
 
 ### Capsule Net
 Capsule Neural Networks: The Next Neural Networks? Part 1: CNNs and their problems.
