@@ -26,6 +26,7 @@ Recurrent Neural Networks
 
 Understanding hidden memories of recurrent neural networks  
   https://blog.acolyer.org/2019/02/25/understanding-hidden-memories-of-recurrent-neural-networks/amp/
+   
 
 ### GAN   
   https://poloclub.github.io/ganlab/?fbclid=IwAR2wID0IihgfEj_peVnZ-PjdIVfm3nR-5mR27bmhsBC8ll6jjnlM7EThIx4
@@ -107,3 +108,9 @@ A computer vision system for deep learning-based detection of patient mobilizati
    
 WHAT ARE MAJOR REINFORCEMENT LEARNING ACHIEVEMENTS & PAPERS FROM 2018?  
 https://www.topbots.com/most-important-ai-reinforcement-learning-research/?fbclid=IwAR1Crwj1qOrjb9D4Saq_YKwsh6A5nCQ58l8yo96-boNkOLt8Z9CX60EZs6s
+
+  Denoising autoencoders with Keras, TensorFlow, and Deep Learning
+  https://www.pyimagesearch.com/2020/02/24/denoising-autoencoders-with-keras-tensorflow-and-deep-learning/
+  
+  speech command recognition
+  https://github.com/jayeshsaita/Speech-Commands-Recognition 
