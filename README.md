@@ -37,12 +37,20 @@ Is The GAN-Powered Website ThisPersonDoesNotExist.Com Creepy Or Brilliant?
 Self-Supervised GANs  
   https://towardsdatascience.com/self-supervised-gans-2aec1eadaccd?fbclid=IwAR3lKBy62V4N8NXEcWyH7BxQQmNNRYuS0-7uP6_XYrYW7jdNqK_NGs_nbtY
   
+Using Generative Adversarial Networks (GANs) for Data Augmentation in Colorectal Images
+  https://medium.com/health-data-science/using-generative-adversarial-networks-gans-for-data-augmentation-in-colorectal-images-565deda07a22
+  
 ### GNN 
 
 A Gentle Introduction to Graph Neural Networks (Basics, DeepWalk, and GraphSage)  
   https://towardsdatascience.com/a-gentle-introduction-to-graph-neural-network-basics-deepwalk-and-graphsage-db5d540d50b3?fbclid=IwAR3nzu5oCS25hRFIYN28U2ZWuQBuGjvRP-OqMRwcdA6JjNoz9iDAkn2fco0
   
 ### Autoencoder  
+Autoencoders with Keras, TensorFlow, and Deep Learning
+https://www.pyimagesearch.com/2020/02/17/autoencoders-with-keras-tensorflow-and-deep-learning/
+
+Denoising autoencoders with Keras, TensorFlow, and Deep Learning 
+https://www.pyimagesearch.com/2020/02/24/denoising-autoencoders-with-keras-tensorflow-and-deep-learning/
 
 ### RBM  
 
@@ -70,6 +78,7 @@ Microsoft’s New MT-DNN Outperforms Google BERT
  
 Reflections on the State of AI: 2018  
    https://towardsdatascience.com/reflections-on-the-state-of-ai-2018-46504e25263d?fbclid=IwAR18bxjxTaEZ2CwAOsWEK44alA4r-jEv0t36P9PCtzp1FxUv7nU1h4WhROY
+   
 ## Domains  
 
 ### image and video  
@@ -81,7 +90,12 @@ https://towardsdatascience.com/bert-technology-introduced-in-3-minutes-2c2f99682
 Chars2vec: character-based language model for handling real world texts with spelling errors and human slang
 https://hackernoon.com/chars2vec-character-based-language-model-for-handling-real-world-texts-with-spelling-errors-and-a3e4053a147d
 
+Data augmentation for NLP
+https://github.com/makcedward/nlpaug
+
 ### Speech  
+speech command recognition
+https://github.com/jayeshsaita/Speech-Commands-Recognition 
 
 ### Others 
 
@@ -108,9 +122,3 @@ A computer vision system for deep learning-based detection of patient mobilizati
    
 WHAT ARE MAJOR REINFORCEMENT LEARNING ACHIEVEMENTS & PAPERS FROM 2018?  
 https://www.topbots.com/most-important-ai-reinforcement-learning-research/?fbclid=IwAR1Crwj1qOrjb9D4Saq_YKwsh6A5nCQ58l8yo96-boNkOLt8Z9CX60EZs6s
-
-  Denoising autoencoders with Keras, TensorFlow, and Deep Learning
-  https://www.pyimagesearch.com/2020/02/24/denoising-autoencoders-with-keras-tensorflow-and-deep-learning/
-  
-  speech command recognition
-  https://github.com/jayeshsaita/Speech-Commands-Recognition 
